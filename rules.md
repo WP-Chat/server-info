@@ -4,7 +4,7 @@ We don't want to be too strict and don't have many rules, but have found through
 
 Please follow these respectfully. If you don't, we maintain the right to kick you from our server.
 
-## Our rules
+## Rules
 
 1. Behave
 
@@ -36,23 +36,23 @@ Nobody is going to sell you their UpWork or other account. **Don't ask.** Bannin
 
 No politics. No religion. No anything that may start a fight at a family reunion.
 
-## Related guidelines
+## Guidelines
 
 Above are some of our hard rules that we will actively follow. This leaves some grey area for which we want to warn you. If you go in this direction, know you're on thin ice.
 
-Use the right channel
+### Use the right channel
 
 Keep all discussions in the correct channels.
 
-Respect others
+### Respect others
 
 Always use common sense and be respectful of the time and effort people spend to help people here.
 
-Edgy jokes
+### Edgy jokes
 
 If you don't know how a person will take a "joke", don't make the joke. We want this server to be as safe and welcoming as possible.
 
-Conflict resolution
+### Conflict resolution
 
 If you have any issues with anything/anyone on this server, please PM an administrator with all relevant details. We cannot help anyone if we aren't aware of an issue.
 
