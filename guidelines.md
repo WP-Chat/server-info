@@ -4,8 +4,6 @@ We've gathered some guidelines, collected through experience over time, to make 
 
 ## Our guidelines
 
-### Spoon feeding answers
-
 This server is about helping people learn and improve their skills in web development. We do not "spoon-feed" answers to people. Do not expect to be immediately handed the answer you want. Our goal is to walk you through so you can find the answer yourself and broaden your understanding.
 
 ### Do not ask to ask
