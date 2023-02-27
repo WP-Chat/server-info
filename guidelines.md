@@ -4,11 +4,9 @@ We've gathered some guidelines, collected through experience over time, to make 
 
 ## Our guidelines
 
-### Don't ask to ask, just ask
+### Do your research
 
-State your question. Do not ask if someone is around. You want *their* help, so don't be lazy, and put in the effort of asking a good question. If nobody has a solution you can now take your fully written question to another place. No time wasted.
-
-https://dontasktoask.com/
+You are expected to do your own research before requesting help. Google your problem, browse the documentation of whatever software product you are using, and try the potential solutions you find. Keep track of what worked, what didn't, and add this research to your question.
 
 ### Provide enough information
 
@@ -17,6 +15,20 @@ You can almost always never give too much information, but too little informatio
 Explain what you want to achieve, what you've already done, and what issues you ran into.
 
 Provide code, error messages, screenshots, a link to your project, anything that may be helpful.
+
+### Asking the real question (The XY Problem)
+
+You want to do X, but you don't know how. You think Y will get you X, but you don't know how to get Y either. Now you are asking for help with Y, but your secret true goal is X. The XY problem can waste a lot of time by fixing the wrong problem, so we must avoid it.
+
+Fully describe the true problem, then tell us about the potential solution you are struggling with.
+
+https://xyproblem.info/
+
+### Don't ask to ask, just ask
+
+State your question. Do not ask if someone is around. You want *their* help, so don't be lazy, and put in the effort of writing out the question. If nobody has a solution you can now take your fully written question to another place on the internet. No time wasted.
+
+https://dontasktoask.com/
 
 ### Sharing code
 
@@ -54,24 +66,6 @@ We cannot moderate DMs. We won't know if your problem was solved or what you tri
 
 If you would rather not have your site or username forever in our Discord logs, you can send it publicly, and edit your message after your conversation to say *redacted*.
 
-### Learning webdev with WordPress
-
-WordPress is not a good tool to use to start learning web development. It obfuscates how HTML, CSS, JavaScript and PHP are used together to make pages and websites, which makes it much more difficult to understand.
-
-Instead HTML, CSS, JavaScript and PHP should be learned separately, before attempting to learn WordPress.
-
-### Asking the real question (The XY Problem)
-
-You want to do X, but you don't know how. You think Y will get you X, but you don't know how to get Y either. Now you are asking for help with Y, but your secret true goal is X. The XY problem can waste a lot of time, so we must avoid it.
-
-Don't ask about the potential solution you are thinking of, without mentioning the real problem. You'll get lots more potential solutions if you let people think about the broader picture.
-
-https://xyproblem.info/
-
-### Do your research
-
-You are expected to do your own research before requesting help. Google your problem, browse the documentation of whatever software product you are using, and try the potential solutions you find. Keep track of what worked, what didn't, and add this research to your question.
-
 ### Deleting messages
 
 Please don't delete your messages. If you found the answer to your problem yourself, just say so share it with us. That way everyone can learn.
@@ -79,3 +73,9 @@ Please don't delete your messages. If you found the answer to your problem yours
 ### Spoon feeding
 
 You are all here to learn, so we try to avoid "spoon-feed" answers. Ideally we walk you through the thought process, so you can find the answer yourself, and become better at learning at the same time.
+
+### Learning webdev with WordPress
+
+WordPress is not a good tool to use to start learning web development. It obfuscates how HTML, CSS, JavaScript and PHP are used together to make pages and websites, which makes it much more difficult to understand.
+
+Instead HTML, CSS, JavaScript and PHP should be learned separately, before attempting to learn WordPress.
