@@ -8,39 +8,44 @@ Please follow these respectfully. If you don't, we maintain the right to kick yo
 
 ### Behave
 
-Do not abuse, belittle, insult, or threaten anyone. Any reports of abuse will be logged and will lead to a permanent ban. We don't allow rude behavior directed towards anyone.
-
-### No spam
-
-Spam is not tolerated. This includes, but is not limited to, posting the same question to multiple channels and general advertising of products and services. If you're not sure, ask an admin before posting.
+Rude behavior or anything worse, will not be tolerated. Respect your fellow netizens.
 
 ### No NSFW content
 
-### No advertising
+This is clearly not the place for that.
 
-Do not self promote or advertise other discord servers without prior permission from an Administrator. The only exception to this rule is linking another user to a server mentioned previously in one of the chats, that is tech related.
+### No advertising/spam
+
+Do not blatantly promote or advertise your services, your business, your websites, your Discord server, your YouTube channel or anything similar.
+
+Exceptions:
+- You can "promote" when someone asks about it.
+- You can have 1 active project in #project-review.
+- You can have 1 active "Looking for clients" post in #jobs-and-collabs.
 
 ### No illegal activity
 
-No piracy of software or media. No GPL bullshit. No nulling. No hacking. No cracking. No doxxing. No account selling. No buying followers. No black hat SEO.
+No piracy of software or media. No GPL bullshit. No nulling. No hacking. No cracking. No doxxing. No account trading. No follower trading. No email list trading. No black hat SEO.
 
-Any meta discussion of these things must not link to, promote or encourage the subject.
+Any meta discussion of illegal activity may not link to, promote or encourage the activity.
 
 ### No unsolicited DMs
 
-No DMs - you will be warned once, then you will be banned (upon screenshotted proof of DMs). Report any unsolicited DMs to an Admin. **This includes unsolicited friend requests.** Discord has added private threads - use these instead of DMs. This also allows admins to help moderate these conversations.
+Do not message or friend request our users unless they explicitly give you permission.
+
+To report unsolicited contact, make a screenshot and send it to *one* moderator (Administrator).
 
 ### No politics/religion
 
-No politics. No religion. No anything that may start a fight at a family reunion.
+No politics. No religion. No debates or discussions about anything that could start a fight at a birthday party.
 
 ## Guidelines
 
 Above are some of our hard rules that we will actively follow. This leaves some grey area for which we want to warn you. If you go in this direction, know you're on thin ice.
 
-### Use the right channel
+### Choose the right channel
 
-Keep all discussions in the correct channels.
+When you want to post something, consider all the channels we have, and choose the most appropriate one. You are not allowed to post the same *thing* in multiple channels (or multiple servers) because this *will* waste peoples time.
 
 ### Respect others
 
