@@ -20,17 +20,15 @@ Spam is not tolerated. This includes, but is not limited to, posting the same qu
 
 Do not self promote or advertise other discord servers without prior permission from an Administrator. The only exception to this rule is linking another user to a server mentioned previously in one of the chats, that is tech related.
 
-### No piracy
+### No illegal activity
 
-Piracy is not tolerated. Do not promote, discuss, or otherwise encourage piracy of any kind. This also goes for any external Terms of Service.
+No piracy of software or media. No GPL bullshit. No nulling. No hacking. No cracking. No doxxing. No account selling. No buying followers. No black hat SEO.
+
+Any meta discussion of these things must not link to, promote or encourage the subject.
 
 ### No unsolicited DMs
 
 No DMs - you will be warned once, then you will be banned (upon screenshotted proof of DMs). Report any unsolicited DMs to an Admin. **This includes unsolicited friend requests.** Discord has added private threads - use these instead of DMs. This also allows admins to help moderate these conversations.
-
-### No account selling
-
-Nobody is going to sell you their UpWork or other account. **Don't ask.** Banning will ensue.
 
 ### No politics/religion
 
