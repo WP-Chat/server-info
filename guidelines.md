@@ -4,6 +4,10 @@ We've gathered some guidelines, collected through experience over time, to make 
 
 ## Our guidelines
 
+### Spoon feeding answers
+
+This server is about helping people learn and improve their skills in web development. We do not "spoon-feed" answers to people. Do not expect to be immediately handed the answer you want. Our goal is to walk you through so you can find the answer yourself and broaden your understanding.
+
 ### Do not ask to ask
 
 Instead of "does anyone know X", "can anyone help me?", or anything like that, simply state your question.
@@ -77,7 +81,3 @@ We are not a replacement for Google.
 Please don't delete your messages. If you found an answer to your problem, just say so and how you solved it. That way everyone can learn.
 
 It is very frustrating to spend time trying to help someone and find information for them only to realize they deleted their messages. It's also frustrating to have a conversation, then messages are deleted and you just seem to be talking to yourself suddenly.
-
-### Spoon feeding answers
-
-This server is about helping people learn and improve their skills in web development. We do not "spoon-feed" answers to people. Do not expect to be immediately handed the answer you want. Our goal is to walk you through so you can find the answer yourself and broaden your understanding.
