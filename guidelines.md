@@ -6,7 +6,7 @@ We've gathered some guidelines, collected through experience over time, to make 
 
 ### Don't ask to ask, just ask
 
-State your question. Do not ask if someone is around. You want *their* help, so don't be lazy and put in the effort of asking a good question. If nobody has a solution you can now take your fully written question to another place. No time wasted.
+State your question. Do not ask if someone is around. You want *their* help, so don't be lazy, and put in the effort of asking a good question. If nobody has a solution you can now take your fully written question to another place. No time wasted.
 
 https://dontasktoask.com/
 
