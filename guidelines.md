@@ -36,7 +36,7 @@ function hello_world() {
 
 ### Do not ask people to DM you for help
 
-Our rules explicitly state that unsollicited DMs are not allowed and you will be warned and/or banned for not following this rule.
+Our rules explicitly state that unsolicited DMs are not allowed and you will be warned and/or banned for not following this rule.
 
 If you need to share information that you don't want to share publicly, you can create a private thread and invite the person(s) you want to share with.
 
