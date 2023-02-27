@@ -39,21 +39,17 @@ To report unsolicited contact, make a screenshot and send it to *one* moderator 
 
 No politics. No religion. No debates or discussions about anything that could start a fight at a birthday party.
 
-## Guidelines
+## Related guidelines
 
 Above are some of our hard rules that we will actively follow. This leaves some grey area for which we want to warn you. If you go in this direction, know you're on thin ice.
 
+If you don't know how a person will take the joke, don't make the joke. We want this server to be as safe and welcoming as possible.
+
+If you have an issue with something or someone on this server, please DM *one* moderator (administrator) with all relevant details. They will discuss internally, take action and get back to you.
+
 ### Choose the right channel
 
-When you want to post something, consider all the channels we have, and choose the most appropriate one. You are not allowed to post the same *thing* in multiple channels (or multiple servers) because this *will* waste peoples time.
-
-### Edgy jokes
-
-If you don't know how a person will take the joke, don't make the joke. This is not the place to be edgy.
-
-### Conflict resolution
-
-If you have an issue with something or someone on this server, please DM *one* moderator (Administrator) with all relevant details. They will discuss internally, take action and get back to you.
+When you want to post something, consider all the channels we have, and choose the most appropriate one (hint: there's more than two). You are not allowed to post the same thing in multiple channels (or multiple servers) because this will waste peoples time.
 
 ## Summary
 
