@@ -10,10 +10,6 @@ Please follow these respectfully. If you don't, we maintain the right to kick yo
 
 Do not abuse, belittle, insult, or threaten anyone. Any reports of abuse will be logged and will lead to a permanent ban. We don't allow rude behavior directed towards anyone.
 
-2. Use the right channel
-
-Keep all discussions in the correct channels.
-
 3. No spam
 
 Spam is not tolerated. This includes, but is not limited to, posting the same question to multiple channels and general advertising of products and services. If you're not sure, ask an admin before posting.
@@ -36,10 +32,6 @@ No DMs - you will be warned once, then you will be banned (upon screenshotted pr
 
 Nobody is going to sell you their UpWork or other account. **Don't ask.** Banning will ensue.
 
-9. Respect others
-
-Always use common sense and be respectful of the time and effort people spend to help people here.
-
 10. No politics/religion
 
 No politics. No religion. No anything that may start a fight at a family reunion.
@@ -47,6 +39,14 @@ No politics. No religion. No anything that may start a fight at a family reunion
 ## Related guidelines
 
 Above are some of our hard rules that we will actively follow. This leaves some grey area for which we want to warn you. If you go in this direction, know you're on thin ice.
+
+Use the right channel
+
+Keep all discussions in the correct channels.
+
+Respect others
+
+Always use common sense and be respectful of the time and effort people spend to help people here.
 
 Edgy jokes
 
