@@ -6,33 +6,33 @@ Please follow these respectfully. If you don't, we maintain the right to kick yo
 
 ## Rules
 
-1. Behave
+### Behave
 
 Do not abuse, belittle, insult, or threaten anyone. Any reports of abuse will be logged and will lead to a permanent ban. We don't allow rude behavior directed towards anyone.
 
-3. No spam
+### No spam
 
 Spam is not tolerated. This includes, but is not limited to, posting the same question to multiple channels and general advertising of products and services. If you're not sure, ask an admin before posting.
 
-4. No NSFW content
+### No NSFW content
 
-5. No advertising
+### No advertising
 
 Do not self promote or advertise other discord servers without prior permission from an Administrator. The only exception to this rule is linking another user to a server mentioned previously in one of the chats, that is tech related.
 
-6. No piracy
+### No piracy
 
 Piracy is not tolerated. Do not promote, discuss, or otherwise encourage piracy of any kind. This also goes for any external Terms of Service.
 
-7. No unsolicited DMs
+### No unsolicited DMs
 
 No DMs - you will be warned once, then you will be banned (upon screenshotted proof of DMs). Report any unsolicited DMs to an Admin. **This includes unsolicited friend requests.** Discord has added private threads - use these instead of DMs. This also allows admins to help moderate these conversations.
 
-8. No account selling
+### No account selling
 
 Nobody is going to sell you their UpWork or other account. **Don't ask.** Banning will ensue.
 
-10. No politics/religion
+### No politics/religion
 
 No politics. No religion. No anything that may start a fight at a family reunion.
 
