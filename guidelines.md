@@ -4,6 +4,8 @@ We've gathered some guidelines, collected through experience over time, to make 
 
 ## Our guidelines
 
+This server is about helping people learn and improve their skills in web development. We do not "spoon-feed" answers to people. Do not expect to be immediately handed the answer you want. Our goal is to walk you through so you can find the answer yourself and broaden your understanding.
+
 ### Do not ask to ask
 
 Instead of "does anyone know X", "can anyone help me?", or anything like that, simply state your question.
@@ -36,7 +38,7 @@ function hello_world() {
 
 ### Do not ask people to DM you for help
 
-Our rules explicitly state that unsollicited DMs are not allowed and you will be warned and/or banned for not following this rule.
+Our rules explicitly state that unsolicited DMs are not allowed and you will be warned and/or banned for not following this rule.
 
 If you need to share information that you don't want to share publicly, you can create a private thread and invite the person(s) you want to share with.
 
@@ -77,7 +79,3 @@ We are not a replacement for Google.
 Please don't delete your messages. If you found an answer to your problem, just say so and how you solved it. That way everyone can learn.
 
 It is very frustrating to spend time trying to help someone and find information for them only to realize they deleted their messages. It's also frustrating to have a conversation, then messages are deleted and you just seem to be talking to yourself suddenly.
-
-### Spoon feeding answers
-
-This server is about helping people learn and improve their skills in web development. We do not "spoon-feed" answers to people. Do not expect to be immediately handed the answer you want. Our goal is to walk you through so you can find the answer yourself and broaden your understanding.

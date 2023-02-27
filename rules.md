@@ -4,35 +4,52 @@ We don't want to be too strict and don't have many rules, but have found through
 
 Please follow these respectfully. If you don't, we maintain the right to kick you from our server.
 
-## Our rules
+## Rules
 
-1. Do not abuse, belittle, insult, or threaten anyone. Any reports of abuse will be logged and will lead to a permanent ban. We don't allow rude behavior directed towards anyone.
+### Behave
 
-2. Keep all discussions in the correct channels. (Hint: there's more than two)
+Rude behavior or anything worse, will not be tolerated. Respect your fellow netizens.
 
-3. Spam is not tolerated. This includes, but is not limited to, posting the same question to multiple channels and general advertising of products and services. If you're not sure, ask an admin before posting.
+### No NSFW content
 
-4. No NSFW content.
+This is clearly not the place for that.
 
-5. Do not self promote or advertise other discord servers without prior permission from an Administrator. The only exception to this rule is linking another user to a server mentioned previously in one of the chats, that is tech related.
+### No advertising/spam
 
-6. Piracy is not tolerated. Do not promote, discuss, or otherwise encourage piracy of any kind. This also goes for any external Terms of Service.
+Do not blatantly promote or advertise your services, your business, your websites, your Discord server, your YouTube channel or anything alike.
 
-7. No DMs - you will be warned once, then you will be banned (upon screenshotted proof of DMs). Report any unsolicited DMs to an Admin. **This includes unsolicited friend requests.** Discord has added private threads - use these instead of DMs. This also allows admins to help moderate these conversations.
+Exceptions:
+- You can "promote" it when someone asks about it.
+- You can have 1 active project in #project-review.
+- You can have 1 active "Looking for clients" thread in #jobs-and-collabs.
 
-8. Nobody is going to sell you their UpWork or other account. **Don't ask.** Banning will ensue.
+### No illegal activity
 
-9. Always use common sense and be respectful of the time and effort people spend to help people here.
+No piracy of software or media. No GPL bullshit. No nulling. No hacking. No cracking. No doxxing. No (D)DoS'ing. No account/follower/email list trading. No black hat SEO.
 
-10. No politics. No religion. No anything that may start a fight at a family reunion.
+Any meta discussion of illegal activity may not link to, promote or encourage the activity.
+
+### No unsolicited DMs
+
+Do not message or friend request our users unless they explicitly give you permission.
+
+To report unsolicited contact, make a screenshot and send it to *one* moderator (Administrator).
+
+### No politics/religion
+
+No politics. No religion. No debates or discussions about anything that could start a fight at a birthday party.
 
 ## Related guidelines
 
 Above are some of our hard rules that we will actively follow. This leaves some grey area for which we want to warn you. If you go in this direction, know you're on thin ice.
 
-If you don't know how a person will take a "joke", don't make the joke. We want this server to be as safe and welcoming as possible.
+If you don't know how a person will take the joke, don't make the joke. We want this server to be as safe and welcoming as possible.
 
-If you have any issues with anything/anyone on this server, please PM an administrator with all relevant details. We cannot help anyone if we aren't aware of an issue.
+If you have an issue with something or someone on this server, please DM *one* moderator (administrator) with all relevant details. They will discuss internally, take action and get back to you.
+
+### Choose the right channel
+
+When you want to post something, consider all the channels we have, and choose the most appropriate one (hint: there's more than two). You are not allowed to post the same thing in multiple channels (or multiple servers) because this will waste peoples time.
 
 ## Summary
 
