@@ -54,12 +54,6 @@ We cannot moderate DMs. We won't know if your problem was solved or what you tri
 
 If you would rather not have your site or username forever in our Discord logs, you can send it publicly, and edit your message after your conversation to say *redacted*.
 
-### Video Tutorials
-
-Video tutorials are in no way a comprehensive way to learn a subject. Videos should only be used to introduce a concept and add context so that reading the information directly from the source documentation can be easier to understand.
-
-No video can replace the official documentation.
-
 ### Learning webdev with WordPress
 
 WordPress is not a good tool to use to start learning web development. It obfuscates how HTML, CSS, JavaScript and PHP are used together to make pages and websites, which makes it much more difficult to understand.
