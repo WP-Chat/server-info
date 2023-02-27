@@ -4,78 +4,80 @@ We've gathered some guidelines, collected through experience over time, to make 
 
 ## Our guidelines
 
-### Do your research
+### Do not ask to ask
 
-You are expected to do your own research before requesting help. Google your problem, browse the documentation of whatever software product you are using, and try the potential solutions you find. Keep track of what worked, what didn't, and add this research to your question.
+Instead of "does anyone know X", "can anyone help me?", or anything like that, simply state your question.
 
-### Provide enough information
+No one likes to have to dig information from you that could have been given from the start.
+
+### Include as much information as possible
 
 You can almost always never give too much information, but too little information makes it hard to help you. The harder you make it to help you, the less help you will get.
 
-Explain what you want to achieve, what you've already done, and what issues you ran into.
+Explain what you've done, what you need, and what issues and errors you've encountered trying to fix it.
 
-Provide code, error messages, screenshots, a link to your project, anything that may be helpful.
+This includes providing code, screenshots, error messages, a link to the page(s) in question, anything you can think of.
 
-### Asking the real question (The XY Problem)
+Do not describe what you think the solution is, instead only describe the problem. (See: XY Problem)
 
-You want to do X, but you don't know how. You think Y will get you X, but you don't know how to get Y either. Now you are asking for help with Y, but your secret true goal is X. The XY problem can waste a lot of time by fixing the wrong problem, so we must avoid it.
+### Use Code Blocks
 
-Fully describe the true problem, then tell us about the potential solution you are struggling with.
+To use code blocks, surround the code with the **`** *backtick* character (not single quote or apostophe).
 
-https://xyproblem.info/
+For inline code blocks use one backtick character on each side, giving you `a line of code`.
 
-### Don't ask to ask, just ask
+For multi-line code blocks surround the code with three backtick characters on their own line. For syntax highlighting put the language on the top line immediately after the opening of the code block.
 
-State your question. Do not ask if someone is around. You want *their* help, so don't be lazy, and put in the effort of writing out the question. If nobody has a solution you can now take your fully written question to another place on the internet. No time wasted.
-
-https://dontasktoask.com/
-
-### Sharing code
-
-For a single line of code, wrap your code in single **\`** backticks.
-
-Example:
-`\`the_content()\``
-Will display as:
-`the_content()`
-
-For multiple lines of code, wrap your code in three backticks on their own line. For syntax highlighting put the language on the top line immediately after the backticks.
-
-Example:
-```
-\`\`\`php
-function hello_world() {
-    echo 'hello world';
-}
-\`\`\`
-```
-Will display as:
 ```php
 function hello_world() {
-    echo 'hello world';
+  echo 'hello world';
 }
 ```
 
-To share more than 10-20 lines of code please use a code sharing service like CodePen, and paste the link between angle brackets to prevent it from showing an embed. Example: `<https://codepen.io/argyleink/pen/XWPjzgR>`
+### Do not ask people to DM you for help
 
-### Do not promote DMs
+Our rules explicitly state that unsollicited DMs are not allowed and you will be warned and/or banned for not following this rule.
 
-Our rules explicitly state that unsollicited DMs are not allowed. Do not play around this rule by asking if you can DM someone, or if they can DM you, for no good reason.
+If you need to share information that you don't want to share publicly, you can create a private thread and invite the person(s) you want to share with.
 
-We cannot moderate DMs. We won't know if your problem was solved or what you tried, and if your helper suddenly has to leave then nobody can continue where they left off.
+We cannot moderate DM help. We won't know if your problem was solved, what you tried, and if they have to leave in the middle of helping then no one else can easily pick up from where it was left off.
 
-If you would rather not have your site or username forever in our Discord logs, you can send it publicly, and edit your message after your conversation to say *redacted*.
+### Video Tutorials
 
-### Deleting messages
+Video tutorials are in no way a comprehensive way to learn a subject. Videos should only be used to introduce a concept and add context so that reading the information directly from the source documentation can be easier to understand.
 
-Please don't delete your messages. If you found the answer to your problem yourself, just say so share it with us. That way everyone can learn.
+No video can replace the official documentation.
 
-### Spoon feeding
+### Using WordPress to learn Web Development
 
-You are all here to learn, so we try to avoid "spoon-feed" answers. Ideally we walk you through the thought process, so you can find the answer yourself, and become better at learning at the same time.
+WordPress is not a good tool to use to learn web development. It obfuscates how HTML, CSS, JavaScript and PHP are used together to make pages and websites, which makes it much more difficult to understand. 
 
-### Learning webdev with WordPress
+Instead HTML, CSS, JavaScript and PHP should separately first before attempting to learn WordPress.
 
-WordPress is not a good tool to use to start learning web development. It obfuscates how HTML, CSS, JavaScript and PHP are used together to make pages and websites, which makes it much more difficult to understand.
+### Asking a Question: The X/Y Problem
 
-Instead HTML, CSS, JavaScript and PHP should be learned separately, before attempting to learn WordPress.
+#### What is it?
+The XY problem is asking about your attempted solution rather than your actual problem. This leads to enormous amounts of wasted time and energy, both on the part of people asking for help, and on the part of those providing help. The problem occurs when people get stuck on what they believe is the solution and are unable step back and explain the issue in full.
+
+#### What to do about it?
+- Always include information about a broader picture along with any attempted solution.
+- If someone asks for more information, do provide details.
+- If there are other solutions you've already ruled out, share why you've ruled them out. This gives more information about your requirements.
+
+### Do your research
+
+You are expected to do your own due diligence before requesting help here. It is required for you to make sure to: google the problem, check the official documentation (whether it's the docs for WordPress, your theme, the plugin you need help with, your hosting provider, or any other application or software you are using and having troupe with), and actually try solutions first.
+
+Keep track of what worked, even if only partially, what changed and what didn't during your attempts and make sure to communicate your attempts to those you are requesting help from.
+
+We are not a replacement for Google.
+
+### Don't delete your messages
+
+Please don't delete your messages. If you found an answer to your problem, just say so and how you solved it. That way everyone can learn.
+
+It is very frustrating to spend time trying to help someone and find information for them only to realize they deleted their messages. It's also frustrating to have a conversation, then messages are deleted and you just seem to be talking to yourself suddenly.
+
+### Spoon feeding answers
+
+This server is about helping people learn and improve their skills in web development. We do not "spoon-feed" answers to people. Do not expect to be immediately handed the answer you want. Our goal is to walk you through so you can find the answer yourself and broaden your understanding.
