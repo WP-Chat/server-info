@@ -8,7 +8,7 @@ Please follow these respectfully. If you don't, we maintain the right to kick yo
 
 1. Do not abuse, belittle, insult, or threaten anyone. Any reports of abuse will be logged and will lead to a permanent ban. We don't allow rude behavior directed towards anyone.
 
-2. Keep all discussions in the correct channels.
+2. Keep all discussions in the correct channels. (Hint: there's more than two)
 
 3. Spam is not tolerated. This includes, but is not limited to, posting the same question to multiple channels and general advertising of products and services. If you're not sure, ask an admin before posting.
 
