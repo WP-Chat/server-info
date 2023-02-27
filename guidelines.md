@@ -1,6 +1,6 @@
 # Server Guidelines
 
-We've gathered some guidelines, collected through experience over time, to make your experience in our server (and other communities on the internet) optimally pleasurable. Read them carefully and ask us if something is unclear, we promise it's worth the effort.
+We've gathered some guidelines, collected through experience over time, to make your experience on our server (and other communities on the internet) optimally pleasurable. Read them carefully and ask us if something is unclear, we promise it's worth the effort.
 
 ## Our guidelines
 
