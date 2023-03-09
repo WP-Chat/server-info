@@ -6,36 +6,40 @@ Please follow these respectfully. If you don't, we maintain the right to kick yo
 
 ## Rules
 
-### Behave
+### 1. Choose the right channel
 
-Rude behavior or anything worse, will not be tolerated. Respect your fellow netizens.
+When you want to post something, consider all the channels we have, and choose the most appropriate one (hint: there's more than two). You are not allowed to post the same thing in multiple channels (or multiple servers) because this will waste peoples time.
 
-### No NSFW content
+### 2. No advertising/spam
+
+Do not blatantly promote or advertise your services, your business, your websites, your Discord server, your YouTube channel or anything alike.
+
+### 3. No NSFW content
 
 This is clearly not the place for that.
 
-### No advertising/spam
+### 4. Behave
 
-Do not blatantly promote or advertise your services, your business, your websites, your Discord server, your YouTube channel or anything alike.
+Rude behavior or anything worse, will not be tolerated. Respect your fellow netizens.
 
 Exceptions:
 - You can "promote" it when someone asks about it.
 - You can have 1 active project in #project-review.
 - You can have 1 active "Looking for clients" thread in #jobs-and-collabs.
 
-### No illegal activity
+### 5. No illegal activity
 
 No piracy of software or media. No GPL bullshit. No nulling. No hacking. No cracking. No doxxing. No (D)DoS'ing. No account/follower/email list trading. No black hat SEO.
 
 Any meta discussion of illegal activity may not link to, promote or encourage the activity.
 
-### No unsolicited DMs
+### 6. No unsolicited DMs
 
 Do not message or friend request our users unless they explicitly give you permission.
 
 To report unsolicited contact, make a screenshot and send it to *one* moderator (Administrator).
 
-### No politics/religion
+### 7. No politics/religion
 
 No politics. No religion. No debates or discussions about anything that could start a fight at a birthday party.
 
@@ -46,10 +50,6 @@ Above are some of our hard rules that we will actively follow. This leaves some 
 If you don't know how a person will take the joke, don't make the joke. We want this server to be as safe and welcoming as possible.
 
 If you have an issue with something or someone on this server, please DM *one* moderator (administrator) with all relevant details. They will discuss internally, take action and get back to you.
-
-### Choose the right channel
-
-When you want to post something, consider all the channels we have, and choose the most appropriate one (hint: there's more than two). You are not allowed to post the same thing in multiple channels (or multiple servers) because this will waste peoples time.
 
 ## Summary
 
