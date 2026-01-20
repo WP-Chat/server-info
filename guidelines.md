@@ -40,8 +40,6 @@ function hello_world() {
 
 Our rules explicitly state that unsolicited DMs are not allowed, and you will be warned and/or banned for not following this rule.
 
-If you need to share information that you don't want to share publicly, you can create a private thread and invite the person(s) you want to share with.
-
 We cannot moderate DM help. We won't know if your problem was solved, what you tried, and if they have to leave in the middle of helping, then no one else can easily pick up from where it was left off.
 
 ## Video Tutorials
