@@ -45,7 +45,7 @@ No politics. No religion. No debates or discussions about anything that could st
 
 ## AI answers
 
-If you are answering a question with the help of AI, you are required to let the other person know you used AI. This will still allow you to be helpful, but you cannot build a good reputation on it because that knowledge was not coming from you.
+If you are answering a question with the help of AI, you are required to let the other person know you used AI.
 
 # Guidelines
 
