@@ -43,6 +43,10 @@ To report unsolicited contact, make a screenshot and share it in a thread in <#1
 
 No politics. No religion. No debates or discussions about anything that could start a fight at a family reunion.
 
+## AI answers
+
+If you are answering a question with the help of AI, you are required to let the other person know you used AI. This will still allow you to be helpful, but you cannot build a good reputation on it because that knowledge was not coming from you.
+
 # Guidelines
 
 If you have another minute, we highly recommend reading <#823609056714555472>, which contains our community guidelines. Not following the guidelines will not get you in trouble, but your time here will likely be less productive.
