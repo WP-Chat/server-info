@@ -2,7 +2,7 @@
 
 ## Bot: Wapugh
 
-**Effective date:** 2026-07-26
+**Effective date:** 2026-07-26\
 **Operator:** WP Chat team
 
 Wapugh (“the Bot”) is a private Discord bot operated by the WP Chat team and used only in our server. This Privacy Policy explains what information the Bot accesses, how it is used, and how it is stored.
